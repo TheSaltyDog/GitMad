@@ -1,3 +1,3 @@
-Its your turn to make a file. Use the "touch" command to make a file. Then find the file in your file browser and edit it. Put your username, then save it, then copy it to your branch. After that you should save the file to your branch and commit followed by a push.
+Its your turn to make a file. Use the "touch" command to make a file. Then find the file in your file browser and edit it. Put your username, then save it, then copy it to your branch. After that you should save the file to your branch and commit followed by a push. Then head to the master branch and read the "Test4" for your next task.
 
 Commands - git push, git add -A, git status, git checkout, scp, cat, ls, touch
