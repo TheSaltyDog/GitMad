@@ -1,0 +1,4 @@
+For your first task you need to make your own branch under the master. Here you will store all files you need to complete the trial.
+use git branch "UserName-master" to make your branch and then use the scp to get this file to your branch.
+
+Commands - git checkout, cd, scp, ls, cat
