@@ -1,0 +1,3 @@
+Now that you have made a branch change over to the dev branch and read the file called "Test3.txt" with your cat command for the next instructions.
+
+Commands - cat, git checkout
