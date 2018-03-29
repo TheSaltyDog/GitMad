@@ -1,3 +1,10 @@
+First things first. You'll need to config your git bash with your github username and email. If you haven't already, make a user in github. Then
+use- 
+ git config --global user.name "examplename"
+examplename
+ git config --global user.email "UserEmail@example.com"
+UserEmail@example.com
+
 For your first task you need to make your own branch under the master. Here you will store all files you need to complete the trial.
 use git branch "UserName-master" to make your branch and then use the scp to get this file to your branch.
 
